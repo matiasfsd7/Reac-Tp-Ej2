@@ -5,7 +5,7 @@ import Friend from "./Friend";
 function App() {
   return (
     <>
-      <Friend amigo="my friend"></Friend>
+      <Friend amigo="my friend!"></Friend>
     </>
   );
 }
