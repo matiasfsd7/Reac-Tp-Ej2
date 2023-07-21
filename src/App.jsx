@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import Friend from "./Friend";
+import Friend from "./Componentes/Friend";
 
 function App() {
   return (
